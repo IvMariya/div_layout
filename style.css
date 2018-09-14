@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Prosto+One|Lobster');
+
+body {
+  font-family: 'Prosto One', cursive;
+}
+
+[class$="title"] {
+  font-family: 'Lobster', cursive;
+}
