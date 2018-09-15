@@ -4,6 +4,6 @@ body {
   font-family: 'Prosto One', cursive;
 }
 
-[class$="title"] {
+.title {
   font-family: 'Lobster', cursive;
 }
